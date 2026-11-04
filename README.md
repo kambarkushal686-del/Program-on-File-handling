@@ -1,0 +1,1 @@
+C program that processes a file containing numbers and computes summary statistics.
